@@ -1,0 +1,4 @@
+RNN /LSTM CASE STUDY
+
+https://www.kaggle.com/ptheru/google-stock-price-prediction-rnn 
+https://www.kaggle.com/vipul92/google-stock-price-prediction-using-lstm-rnn
